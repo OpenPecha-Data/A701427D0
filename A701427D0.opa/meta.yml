@@ -1,0 +1,22 @@
+id: A701427D0
+title: 'The Sunlight of Blessings: A Prayer'
+type: translation
+pechas:
+- I440B4EE6
+- ICCD0B9ED
+- I35D9DDB7
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:10.238584
+  last_modified_at: 2023-01-04 12:50:10.238603
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I440B4EE6/7DDD: 674C
+  ICCD0B9ED/B7B8: 674C
+  I35D9DDB7/8171: 674C
